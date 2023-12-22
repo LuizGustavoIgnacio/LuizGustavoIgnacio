@@ -45,11 +45,11 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Ame
 
 ### Me encontre nas redes socias! Bora compartilhar ideias!
 
-[Linkedin](linkedin.com/in/luiz-gustavo-ignacio/) 
+[Linkedin](https://www.linkedin.com/in/luiz-gustavo-ignacio/)
 
 #### Perfil da plataforma de Cursos da Digital Innovation One
 
-[Digital Innovation One - Luiz](dio.me/users/lgignacio)
+[Digital Innovation One - Luiz](https://www.dio.me/users/lgignacio)
 
 </center>
 
