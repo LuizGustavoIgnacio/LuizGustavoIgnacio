@@ -5,8 +5,8 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Ame
 
 <center>
 
-![Luiz Ignácio's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizgustavoignacio&show_icons=true&theme=dracula)
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavoignacio&show_icons=true&theme=dracula&layout=compact)
+![Luiz Ignácio's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizgustavoignacio&show_icons=true&theme=tokyonight)
+![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavoignacio&show_icons=true&theme=tokyonight&layout=compact)
 
 
 </center>
